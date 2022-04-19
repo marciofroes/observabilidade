@@ -1,2 +1,2 @@
 # observabilidade
-Coletando métricas com Prometheus
+Coletando métricas com Prometheus/Grafana
