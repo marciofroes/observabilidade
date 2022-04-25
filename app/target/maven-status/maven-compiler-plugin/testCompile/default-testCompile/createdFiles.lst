@@ -1,0 +1,3 @@
+br\com\lopes\forum\ForumApplicationTests.class
+br\com\lopes\forum\controller\AutenticacaoControllerTest.class
+br\com\lopes\forum\repository\CursoRepositoryTest.class

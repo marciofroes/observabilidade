@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.lopes.forum.ForumApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.955 s - in br.com.lopes.forum.ForumApplicationTests
